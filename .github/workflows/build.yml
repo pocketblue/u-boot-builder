@@ -1,6 +1,6 @@
 name: Build u-boot
 permissions:
-  contents: write
+  contents: read
 on:
   workflow_call:
     inputs:
